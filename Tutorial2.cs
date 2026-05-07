@@ -1,6 +1,6 @@
 // © 2026 Radioxians Studios. All Rights Reserved.
 // v 1.0
-//  You can study observe, modify and use it on your game, publish it, or sell it; it will violate the copyright (©) of Radioxians Studios.
+//  You can study observe, modify and use it on your game, but not publish it, or sell it; it will violate the copyright (©) of Radioxians Studios.
 // This script is on Git Hub
 
 
