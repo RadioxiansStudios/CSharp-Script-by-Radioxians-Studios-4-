@@ -1,53 +1,53 @@
+// © 2026 Radioxians Studios. All Rights Reserved.
+// v 1.0
+//  You can study observe, modify and use it on your game, publish it, or sell it; it will violate the copyright (©) of Radioxians Studios.
+// This script is on Git Hub
+
+
 using System.Collections;
 using UnityEngine;
 
 public class Tutorial2 : MonoBehaviour
 {
+    public int bread = 3;
 
-    public float pane = 3;
-    
-    public float numero = 2;
+    public float number = 2;
 
-    public float numero2 = 3;
+    public float number2 = 3;
 
-    public string panino = "paninoblop";
+    public string sandwich = "paninoblop";
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        if (numero != 3 && (numero2 == 2 || panino == "paninoblop"))
+        if (number != 3 && (number2 == 2 || sandwich == "paninoblop"))
         {
-            Debug.Log("numero non è 3, numero2 è 2 o panino è paninoblop!");
+            Debug.Log("number is not 3, number2 is 2 or sandwich is paninoblop!");
         }
         else
         {
-            Debug.Log("NON MI VA BENE!");     
+            Debug.Log("NOT OK!");
         }
 
-        switch(pane)
+        switch (bread)
         {
             case 1:
-                 Debug.Log("OK");
-                 break;
-            
+                Debug.Log("OK");
+                break;
+
             case 2:
-                 Debug.Log("OKOKOKOK");
-                 break;
+                Debug.Log("OKOKOKOK");
+                break;
 
             default:
-                  Debug.Log("niente selezionato");
-                  break;
-                 
+                Debug.Log("nothing selected");
+                break;
         }
-
     }
 
     // Update is called once per frame
     void Update()
     {
-        
 
-
-        
     }
 }
