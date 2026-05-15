@@ -1,3 +1,5 @@
+// Under LICENSE: Radioxians MU LICENSE (Mod Use) (For more info, view the file LICENSE)
+
 // © 2026 Radioxians Studios. All Rights Reserved.
 // v 1.0
 //  You can study observe, modify and use it on your game, but not publish it, or sell it; it will violate the copyright (©) of Radioxians Studios.
